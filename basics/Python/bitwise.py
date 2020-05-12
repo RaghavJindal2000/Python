@@ -1,0 +1,10 @@
+a=1279
+b=1355
+print(a&b)
+print(a|b)
+print(a^b)
+print(a<<5)
+print(a>>6)
+print(~a)
+print(-a)
+input()

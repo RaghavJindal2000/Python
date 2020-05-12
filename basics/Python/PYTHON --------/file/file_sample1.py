@@ -1,0 +1,13 @@
+import os
+oldfile=open("E:/Python/b.txt","r")
+newfile=open("E:/a.txt","w")
+newfile.write(oldfile.read())
+newfile.close()
+oldfile.close()
+print("Now file is Created")
+newfile=open("E:/a.txt","r")
+print(newfile.read())
+newfile.close()
+os.rename("E:/a.txt","E:/ab.txt")
+print("File name changed")
+os.remove("E:/ab.txt")

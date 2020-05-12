@@ -1,0 +1,6 @@
+a=(10,20,30,40,50)
+b=list(a)
+c=str(a)
+print(b)
+print(c)
+input()

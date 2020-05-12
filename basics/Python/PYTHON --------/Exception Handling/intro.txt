@@ -1,0 +1,5 @@
+python is developed by Guido Van Rossum
+Python is pure object oriented programming language
+Python is High Level Language
+Python is developed in late 1980s 
+Python is used in data science

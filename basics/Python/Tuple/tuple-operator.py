@@ -1,0 +1,10 @@
+a=(10,20,30,40,50)
+b=(1,2,3,4,5)
+#a=a+b
+#print(a)
+print("a*2 = ",a*2)
+print("10 in a = ",10 in a)
+print("15 in a = ",15 in a)
+print("10 not in a = ",10 not in a)
+print("15 not in a = ",15 not in a)
+input()
